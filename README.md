@@ -89,5 +89,5 @@ This dashboard aims to:
 
 - Review working conditions for roles with <2 years of experience.
 
-Strengthen retention efforts in the 26–35 age bracket.
+- Strengthen retention efforts in the 26–35 age bracket.
 
