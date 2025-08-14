@@ -9,7 +9,7 @@ This Power BI dashboard provides an interactive and visual analysis of Human Res
 
 
 
-🔍 Key Features
+## 🔍 Key Features
 
 🔢 Summary KPIs:
 
@@ -26,7 +26,7 @@ This Power BI dashboard provides an interactive and visual analysis of Human Res
 
 - Average Tenure: 7 years
 
-📈 Visual Insights:
+## 📈 Visual Insights:
 - Attrition by Education :- 
 
  Highlights dominant educational backgrounds affected by attrition (e.g., Life Sciences 38%, Medical 27%).
@@ -63,14 +63,14 @@ Tabular breakdown by department and year (1–4 years) of attrition.
 
 
 
-🧭 Filters and Slicers
+## 🧭 Filters and Slicers
 
 Department Filter: Filter the analysis by department (e.g., Human Resources, Sales, R&D).
 
 Dynamic Interactions: Clicking on any visual highlights related data across the report.
 
 
-🎯 Purpose
+## 🎯 Purpose
 This dashboard aims to:
 
 - Identify trends and patterns in employee attrition.
@@ -81,7 +81,7 @@ This dashboard aims to:
 
 
 
-📌 Suggestions for HR Strategy :- 
+## 📌 Suggestions for HR Strategy :- 
 
 - Investigate the high attrition among younger and lower-income employees.
 
